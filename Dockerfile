@@ -1,4 +1,4 @@
-FROM ruby:2.3.4
+FROM ruby:2.4.3
 
 ENV ROOT /app
 RUN mkdir $ROOT
