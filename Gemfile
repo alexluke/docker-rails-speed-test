@@ -32,3 +32,6 @@ group :development do
   gem 'spring'
 end
 
+
+# Added at 2018-05-20 03:09:11 +0000 by root:
+gem "capybara", "~> 3.1"
