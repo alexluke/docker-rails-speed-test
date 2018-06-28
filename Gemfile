@@ -35,3 +35,6 @@ end
 
 # Added at 2018-05-20 03:09:11 +0000 by root:
 gem "capybara", "~> 3.1"
+
+# Added at 2018-05-20 03:38:27 +0000 by root:
+gem "poltergeist", "~> 1.18"
